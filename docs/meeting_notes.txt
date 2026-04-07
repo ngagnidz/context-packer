@@ -1,0 +1,2 @@
+Meeting Notes – Apr 7, 2026
+We decided to prioritize TTFT reduction this year over accuracy improvements. The strategy will use top-5 chunk retrieval by default. We are expected to meet next Monday to discuss costs associated with this new approach and make a final decision.
